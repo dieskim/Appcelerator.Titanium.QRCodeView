@@ -6,7 +6,7 @@ Appcelerator Titanium QR Code Generator that returns a Ti.UI.ImageView containin
 - This Appcelerator module is a work in progress
 - Please log issues via Github issues
 - Any pull requests and suggestions welcome!
-- Packaged By: Dieskim of (Kiteplans.info)](https://www.kiteplans.info)
+- Packaged By: Dieskim of (dieskim.me)](https://www.dieskim.me)
 
 
 ## Installation:
